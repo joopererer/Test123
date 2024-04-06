@@ -5,7 +5,7 @@ Un projet pour tester les fonctions de Workflows
 
 Réalisation :
 - Workflows/maven.yml  
-  - compiler, tester et mise à jour le couverture des tests automatiquement, quand on fait push/pull_request
+  - compiler, tester et mise à jour le couverture des tests automatiquement, quand on fait push/pull_request dans la branch master
 
    
 - Workflows/maven-publish.yml  
